@@ -1,5 +1,5 @@
-
 # RAG-LLM-External-Documents
+Practical demonstration of RAG LLM using external documents and deployment on streamlit
 
 Welcome to the **RAG-LLM-External-Documents** repository! This project demonstrates the application of Retrieval-Augmented Generation (RAG) using a Language Learning Model (LLM) to create a sophisticated chatbot that can efficiently utilize external documents for answering user queries.
 
@@ -28,7 +28,7 @@ A Colab notebook is provided for a comprehensive demonstration. This notebook gu
    - Utilize the `RAGChatbot` class from the [rag_chatbot_psa.py](rag_chatbot_psa.py) file to create a chatbot.
    - Deploy the chatbot locally within the Colab environment using Streamlit for an interactive user interface.
 
-You can access and run the Colab notebook [here](colab_notebook.ipynb).
+You can access and run the Colab notebook [here](colab_notebook.ipynb). 
 
 ### Streamlit Deployment
 
@@ -49,6 +49,7 @@ To deploy the chatbot using Streamlit locally:
    ```
    streamlit run app.py
    ```
+Dont forget to use the GPU for using this application whether deploying locally or colab.
 
 ## Further Expansion
 
