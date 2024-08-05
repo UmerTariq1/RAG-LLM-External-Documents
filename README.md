@@ -35,20 +35,20 @@ You can access and run the Colab notebook [here](colab_notebook.ipynb).
 To deploy the chatbot using Streamlit locally:
 
 1. Clone the repository:
-   \`\`\`sh
+   ```
    git clone https://github.com/UmerTariq1/RAG-LLM-External-Documents.git
    cd RAG-LLM-External-Documents
-   \`\`\`
+   ```
 
 2. Install the required packages:
-   \`\`\`sh
+   ```
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
 3. Run the Streamlit app:
-   \`\`\`sh
+   ```
    streamlit run app.py
-   \`\`\`
+   ```
 
 ## Further Expansion
 
@@ -74,7 +74,7 @@ Enjoy using the RAG-LLM-External-Documents project!
 
 ### requirements.txt
 
-\`\`\`plaintext
+```
 datasets
 sentence_transformers
 faiss-gpu
@@ -82,7 +82,7 @@ faiss-cpu
 accelerate
 bitsandbytes
 transformers
-\`\`\`
+```
 
 ---
 
