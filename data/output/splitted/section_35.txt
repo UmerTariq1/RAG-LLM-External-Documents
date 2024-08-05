@@ -1,0 +1,27 @@
+Heading 1: Jobs Advice 🏢
+Heading 2: Language Science and technology
+Body:
+This LST department is a dept focused on NLP and linguistics. Combining computer side of the linguistics. You can find more details about the dept [here](https://www.uni-saarland.de/en/department/lst.html). There isnt any specific GPA requirement for admission but you must have some background in NLP or Linguistics. It is a small but very international and fun department. As of writing this, there are only 2 Pakistani students in the department including the original author of this document (Umer). I would highly recommend joining this department if you are interested in NLP or Linguistics. There are also many student working opportunities within the dept in various research groups.
+The course requirements are as follow:
+| Course Type                    | Required Credits                  |
+| ---------------- | --------------------------------- |
+| Core                           | 24  (each course is 6 cp)         |
+| Seminar                        | 14   (each seminar is either 4 or 7 cp)        |
+| Courses from CS or Cog. Psy    | 6-18                                |
+| Others                         | 19-31   (graded just like normal courses)  |
+| Master Seminar   | 12                                |
+| Thesis           | 30                                |
+| ------           | --------                          |
+| *Thesis - total* | 42                                |
+| *Courses-total*  | 78                                |
+| ------           | --------                          |
+| *Total*          | 120                               |
+To see the courses offered in a particular semester:
+1. Go to this [link](https://bit.ly/49rFNuv).
+2. Select the semester you want to check the courses for.
+3. On the next page, Clikc on **Vorlesungsverzeichnis** which is the first option on the left side of the page.
+4. Select **Master** from list
+5. Select **Master (konsekutiv)**
+6. Select **Language Science and Technology**
+7. Here you will see different categories of courses offered in that semester. Clicking on any category will open the list of courses under that category.
+---

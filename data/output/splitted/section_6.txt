@@ -1,0 +1,17 @@
+Heading 1: Living in Saarbrücken 🌆
+Heading 2: Deutschland Ticket and how to register/unregister for it ?
+Body:
+Last updated On : 14 March 24
+The Deutschlandticket often shorted to the D-Ticket, also known as the 49-Euro-Ticket, is a subscription based public transport ticket for all **local** public transport, valid in the whole of Germany, that costs 49 euros per month for non students, and 26 euros for students. There are plans to include this ticket in the semester fees of UdS from winter 2024-25, so you wont have to buy it seperately.
+3 very important things to note here are :
+1. You cannot take any ICE / IC / EC trains. These are the names of the trains and when you use DB website you will figure it out.
+1. It gets automatically renewed for the next month so you have to cancel it BEFORE 15th of the previous month.
+1. If you are a student and are planning on buying the student discounted ticket then you have to buy it before 15th of the previous month. So, to get D ticket for april, you have to buy if before 15th March.
+To buy the ticket (applicalbe till winter 24/25 i.e its included in semester ticket):
+- Go to : https://saarvv.de/online-abo-shop/
+- Select Studierende option (on mobile its a drop down)
+- Select the "Deutschland-Ticket Aufstockermodell für Studierende" option.
+- Enter the details that it asks.
+- Once the payment is done then you will recieve an email confirmation. Email might take some time and might go to spam folder. So wait and check spam folder. The ticket QR code will appear on the Saarfahrplan app on 1st of the month that you paid for, not before that. You will have to register on saarfahrplan app for that. use the same email
+To unregister the subscription of the D ticket you can use the below link. Its pretty simple, just enter your details and hit continue.
+https://saarvv.de/online-abo-shop/abo-kuendigung/#kuendigung-formular

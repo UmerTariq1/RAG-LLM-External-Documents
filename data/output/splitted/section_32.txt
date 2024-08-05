@@ -1,0 +1,31 @@
+Heading 1: Program Specific Information 📚
+Heading 2: Computer Science / Informatika
+Body:
+Computer Science dept is one of the biggest department in UdS.
+You can find more information [here](https://www.uni-saarland.de/en/study/programmes/bachelor/computer-science.html), including the information about the deadlines and everything. As of writing this, the GPA requirement for this dept is 3.
+The Course specific requirements are as follows:
+| Course Type      | Required Credits                  |
+| ---------------- | --------------------------------- |
+| Core             | 27  (each course is 9 cp)         |
+| Advance          | 27  (each course is usually 6 cp) |
+| Seminar          | 7   (each seminar is 7 cp)        |
+| Master Seminar   | 12                                |
+| Thesis           | 30                                |
+| Ungraded         | 17  (you can put core adv or seminar or language course in it)|
+| ------           | --------                          |
+| *Thesis - total* | 42                                |
+| *Courses-total*  | 78                                |
+| ------           | --------                          |
+| *Total*          | 120                               |
+So, you need to do 3 core courses and around 5-6 adv courses.
+You can put any course in the ungraded course. For example if you are not happy with the grade in a course, just put it in the ungraded section.
+You can pick these in any order, there is no restriction on the order you clear these.
+To see the courses offered in a particular semester:
+1. Go to this [link](https://bit.ly/49rFNuv).
+2. Select the semester you want to check the courses for.
+3. On the next page, Clikc on **Vorlesungsverzeichnis** which is the first option on the left side of the page.
+4. Select **Master** from list
+5. Select **Master (konsekutiv)**
+6. Select **Informatik**
+7. Here you will see different categories of courses offered in that semester. Clicking on any category will open the list of courses under that category.
+Last updated On : 21 Feb 24

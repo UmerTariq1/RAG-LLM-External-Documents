@@ -1,0 +1,10 @@
+Heading 1: Jobs Advice 🏢
+Heading 2: Technical jobs during studies
+Body:
+we can divide technical jobs into 2 categories:
+Werkstudent in a company,
+Hiwi, which is std researcher etc related job in uni
+werkstd in a company: these are sometimes more difficult to get, might require referal at time, but also usually pays well esp if its not a saarbrücken based company. It can require german sometimes depending on the field for e.g security jobs even student ones require german at many instances.
+Hiwi: These you get through professors so if you take a course from a prof. you score good in it so you can ask that prof for any open poisitions. But that is alao not always necessary sometimes just a good acdemic record or maybe even previous working exp helps you in getting one. This usally pays in b/w work student and odd jobs.
+There are many research groups in each department in the university. And it is rather easier to find a job here. Especially if you are from a CS background and already have experience.
+You can contact the professors or PHD students in research groups and ask if they have any open position. For this you can go to your professor after the class or just go to your dept website and see which groups are there and then contact them via email. There are 2 main research centers for CS affiliated with UdS. They are DFKI and MPI. You can go to their respective sites and figure out which group you want to apply in. Then get the professors' or PHD students' email and then write a short 5-6 line introduction asking for an open position.

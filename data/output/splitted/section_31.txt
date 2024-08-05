@@ -1,0 +1,6 @@
+Heading 1: Program Specific Information 📚
+Heading 2: How to register for courses?
+Body:
+Answer: Its mainly done through LSF. Its link is attached at the content overview -> external links section.  There is a course description for each course or an external link to it (if there is not then wait for it, if the time is getting very close like 1-2 weeks and there is no information then email the prof or ask the seniors).
+Note that this registeration only enables you to take the classes for that couses. To be able to sit in the exam for the course, you will have to register seperately. That registeration open 3-4 weeks before the exam and will be announced by the instructor in the class.
+---
