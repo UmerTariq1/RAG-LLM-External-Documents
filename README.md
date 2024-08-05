@@ -24,13 +24,7 @@ This repository showcases the integration of RAG with a Llama3 GPT-style model t
 
 A Colab notebook is provided for a comprehensive demonstration. This notebook guides you through:
 
-1. **Preprocessing the HackMD file:**
-   - Convert the markdown file into a formatted text file using the [preprocess_hackmd.py](preprocess_hackmd.py) script.
-
-2. **Splitting the Text File:**
-   - Divide the processed text file into smaller documents using the [split_one_txt_to_multiple_hackmd.py](split_one_txt_to_multiple_hackmd.py) script.
-
-3. **Deploying the Chatbot:**
+1. **Deploying the Chatbot:**
    - Utilize the `RAGChatbot` class from the [rag_chatbot_psa.py](rag_chatbot_psa.py) file to create a chatbot.
    - Deploy the chatbot locally within the Colab environment using Streamlit for an interactive user interface.
 
