@@ -1,0 +1,8 @@
+streamlit
+datasets
+sentence_transformers
+faiss-gpu
+faiss-cpu
+accelerate
+bitsandbytes
+transformers
